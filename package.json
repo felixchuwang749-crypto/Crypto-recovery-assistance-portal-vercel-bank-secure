@@ -1,0 +1,15 @@
+{
+  "name": "recovery-assistance-portal",
+  "version": "2.0.0",
+  "private": true,
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@neondatabase/serverless": "^1.0.0",
+    "express": "^5.1.0"
+  }
+}
